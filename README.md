@@ -1,42 +1,81 @@
-# Hi, I'm Awan Mansuri 👋
+<h1 align="center">Hi, I'm Awan Mansuri 👋</h1>
 
-🎯 Aspiring Data Analyst | BSc IT | Ahmedabad, India
+<p align="center">
+🎯 Aspiring Data Analyst &nbsp;|&nbsp; BSc IT &nbsp;|&nbsp; Ahmedabad, India
+</p>
 
----
-
-## 🛠️ Skills
-- ✅ Microsoft Excel — Pivot Tables, Power Query, Dashboards
-- 🔄 SQL — MySQL (Learning)
-- 🔜 Python — Coming Soon
-- 🔜 Power BI — Coming Soon
-
----
-
-## 📂 Projects
-| Project | Tools | Level |
-|---|---|---|
-| Superstore Sales Dashboard | Excel, Power Query | Advanced |
-| Student Performance Dashboard | Excel, Pivot Tables | Intermediate |
-| Personal Budget Dashboard | Excel, SUMIF | Beginner |
-
-🔗 [View All Projects](https://github.com/awan-mansuri/Excel-Projects)
+<p align="center">
+<a href="https://www.linkedin.com/in/awan-mansuri">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/awan-mansuri">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/awan-mansuri)
+## 👨‍💻 About Me
 
-<!--
-**awan-mansuri/awan-mansuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BSc Information Technology — Lok Jagruti Kendra University
+- 📍 Ahmedabad, Gujarat, India
+- 🎯 Goal: Secure a Data Analyst role
+- 📊 Passionate about turning raw data into business insights
+- 🌱 Currently learning: **SQL & MySQL**
+- 🔜 Next: **Python & Power BI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Coming_Soon-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-Coming_Soon-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Excel Data Analytics Portfolio
+> 3 end-to-end Excel projects from beginner to advanced level
+
+| # | Project | Level | Tools | Link |
+|---|---|---|---|---|
+| 1 | Superstore Sales Dashboard | 🔴 Advanced | Excel, Power Query, Pivot Tables | [View](https://github.com/awan-mansuri/Excel-Projects/tree/main/Superstore-Sales) |
+| 2 | Student Performance Dashboard | 🟡 Intermediate | Excel, AVERAGEIF, Slicers | [View](https://github.com/awan-mansuri/Excel-Projects/tree/main/Student-Performance) |
+| 3 | Personal Budget Dashboard | 🟢 Beginner | Excel, SUMIF, COUNTIF | [View](https://github.com/awan-mansuri/Excel-Projects/tree/main/Budget-Analysis) |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=awan-mansuri&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awan-mansuri&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+</p>
+
+---
+
+## 🗺️ Learning Roadmap
+
+```text
+✅ Microsoft Excel    ████████████████████  100%
+🔄 SQL / MySQL        ████░░░░░░░░░░░░░░░░   25%
+🔜 Python             ░░░░░░░░░░░░░░░░░░░░    0%
+🔜 Power BI           ░░░░░░░░░░░░░░░░░░░░    0%
+🔜 Statistics         ░░░░░░░░░░░░░░░░░░░░    0%
+```
+
+---
+
+<p align="center">
+💡 <i>"Data is the new oil — I'm here to refine it."</i>
+</p>
+
+<p align="center">
+⭐ Star my repositories if you find them useful!
+</p>
