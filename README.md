@@ -62,16 +62,13 @@
 
 ## 🗺️ Learning Roadmap
 
-```text
-✅ Microsoft Excel    ████████████████████  100%
-🔄 SQL / MySQL        ████░░░░░░░░░░░░░░░░   25%
-🔜 Python             ░░░░░░░░░░░░░░░░░░░░    0%
-🔜 Power BI           ░░░░░░░░░░░░░░░░░░░░    0%
-🔜 Statistics         ░░░░░░░░░░░░░░░░░░░░    0%
-```
-
----
-
+| Skill | Progress | Status |
+|---|---|---|
+| Microsoft Excel | ████████████ 100% | ✅ Complete |
+| SQL / MySQL | ████░░░░░░░░ 25% | 🔄 Learning |
+| Python | ░░░░░░░░░░░░ 0% | 🔜 Next |
+| Power BI | ░░░░░░░░░░░░ 0% | 🔜 Next |
+| Statistics | ░░░░░░░░░░░░ 0% | 🔜 Next |
 <p align="center">
 💡 <i>"Data is the new oil — I'm here to refine it."</i>
 </p>
