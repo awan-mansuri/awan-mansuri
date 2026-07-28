@@ -21,8 +21,8 @@
 - 📍 Ahmedabad, Gujarat, India
 - 🎯 Goal: Secure a Data Analyst role
 - 📊 Passionate about turning raw data into business insights
-- 🌱 Currently learning: **SQL & MySQL**
-- 🔜 Next: **Python & Power BI**
+- 🌱 Currently learning: **Python**
+- 🔜 Next: **Power BI**
 
 ---
 
@@ -32,13 +32,22 @@
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Coming_Soon-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-Coming_Soon-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
+
+### 🗄️ SQL Data Analyst Portfolio
+> Advanced customer segmentation analysis on 540K+ real e-commerce transactions
+
+| # | Project | Level | Skills | Link |
+|---|---|---|---|---|
+| 1 | Online Retail RFM Analysis | 🔴 Advanced | Window Functions, Subqueries, CASE, Segmentation | [View](https://github.com/awan-mansuri/SQL-Projects/tree/main/Project1_Online_Retail_RFM) |
+
+**Key Insight:** Identified that 29.8% of customers generate 77.2% of total revenue (£8.9M+) using RFM segmentation.
 
 ### 📊 Excel Data Analytics Portfolio
 > 3 end-to-end Excel projects from beginner to advanced level
@@ -65,10 +74,11 @@
 | Skill | Progress | Status |
 |---|---|---|
 | Microsoft Excel | ████████████ 100% | ✅ Complete |
-| SQL / MySQL | ████░░░░░░░░ 25% | 🔄 Learning |
-| Python | ░░░░░░░░░░░░ 0% | 🔜 Next |
+| SQL / MySQL | ████████████ 100% | ✅ Complete |
+| Python | ░░░░░░░░░░░░ 0% | 🔄 Learning |
 | Power BI | ░░░░░░░░░░░░ 0% | 🔜 Next |
 | Statistics | ░░░░░░░░░░░░ 0% | 🔜 Next |
+
 <p align="center">
 💡 <i>"Data is the new oil — I'm here to refine it."</i>
 </p>
