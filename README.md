@@ -41,13 +41,16 @@
 ## 📂 Featured Projects
 
 ### 🗄️ SQL Data Analyst Portfolio
-> Advanced customer segmentation analysis on 540K+ real e-commerce transactions
+> Advanced business analysis on 800K+ real-world transactions across e-commerce and fraud detection
 
 | # | Project | Level | Skills | Link |
 |---|---|---|---|---|
 | 1 | Online Retail RFM Analysis | 🔴 Advanced | Window Functions, Subqueries, CASE, Segmentation | [View](https://github.com/awan-mansuri/SQL-Projects/tree/main/Project1_Online_Retail_RFM) |
+| 2 | Bank Fraud Detection | 🔴 Advanced | Conditional Aggregation, Rule-Based Flagging, Validation | [View](https://github.com/awan-mansuri/SQL-Projects/tree/main/Project2_Bank_Fraud_Detection) |
 
-**Key Insight:** Identified that 29.8% of customers generate 77.2% of total revenue (£8.9M+) using RFM segmentation.
+**Key Insights:**
+- 29.8% of customers generate 77.2% of total revenue (£8.9M+) using RFM segmentation
+- Combining transaction time with amount catches fraud at 4.5x the baseline rate
 
 ### 📊 Excel Data Analytics Portfolio
 > 3 end-to-end Excel projects from beginner to advanced level
