@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Awan Mansuri 👋</h1>
 
 <p align="center">
-🎯 Aspiring Data Analyst &nbsp;|&nbsp; BSc IT &nbsp;|&nbsp; Ahmedabad, India
+🎯Data Analyst &nbsp;|&nbsp; MSc IT &nbsp;|&nbsp; Ahmedabad, India
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BSc Information Technology — Lok Jagruti Kendra University
+- 🎓 MSc Information Technology — Lok Jagruti Kendra University
 - 📍 Ahmedabad, Gujarat, India
 - 🎯 Goal: Secure a Data Analyst role
 - 📊 Passionate about turning raw data into business insights
