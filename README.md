@@ -1,158 +1,150 @@
 
-<!-- =====================================================
-     AWAN MANSURI | CREATIVE TECH PORTFOLIO
-     Data Analytics • Business Intelligence • AI/ML
-====================================================== -->
+<!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
 
-<a href="https://github.com/awan-mansuri">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101827,55:172554,100:312E81&text=AWAN%20MANSURI&fontColor=F8FAFC&fontSize=48&fontAlignY=43&desc=DATA%20ANALYTICS%20%2F%20BUSINESS%20INTELLIGENCE%20%2F%20AI%20%26%20ML&descSize=13&descAlignY=68" width="100%" alt="Awan Mansuri — Data Analytics Portfolio"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:123B70,100:7C3AED&text=Awan%20Mansuri&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%2FML&descSize=14&descAlignY=62&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Awan Mansuri profile banner"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;MSc+IT+Student+%7C+AI+%26+Machine+Learning;Turning+Data+into+Meaningful+Insights;Building+Dashboards+and+Analytics+Projects" alt="Typing introduction"/>
 </a>
 
-<br/>
+<p>
+  <a href="https://github.com/awan-mansuri">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/awan-mansuri">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
-<sub>CURIOUS MIND. ANALYTICAL THINKING. DATA-DRIVEN DECISIONS.</sub>
-
-<br/><br/>
-
-<a href="https://github.com/awan-mansuri?tab=repositories">Explore Projects</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/awan-mansuri">Connect on LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/awan-mansuri">GitHub Profile</a>
+**I turn data into insights that help people make better decisions.**
 
 </div>
 
 ---
 
-## `01` / About Me
+## 👨‍💻 About Me
 
-I'm **Awan Mansuri**, an MSc IT student interested in Data Analytics, Business Intelligence, and Artificial Intelligence.
+Hi! I'm **Awan Mansuri**, an MSc IT student interested in Data Analytics, Business Intelligence, and Artificial Intelligence.
 
-I enjoy working with data to discover patterns, understand performance, and communicate findings in a clear, useful way.
+I enjoy exploring datasets, identifying patterns, analyzing business performance, and presenting findings through reports and dashboards.
 
-My portfolio focuses on practical analytics projects using Excel, SQL, and Python, with an emphasis on data analysis, reporting, and dashboards.
+- 🎓 **Education:** MSc IT, with an interest in AI/ML
+- 📍 **Location:** Ahmedabad, Gujarat, India
+- 📊 **Primary interests:** Data Analytics, MIS, Reporting and Business Intelligence
+- 🧰 **Tools:** Excel, SQL, Python and data visualization tools
+- 🧠 **Learning focus:** Analytical problem-solving, dashboard development and machine learning
+- 💼 **Career goal:** Data Analyst internships and entry-level analytics roles
 
-- **Based in:** Ahmedabad, Gujarat, India
-- **Education:** MSc IT — AI/ML interests
-- **Primary focus:** Data Analytics and Business Intelligence
-- **Career interests:** Data Analyst, MIS Executive, Reporting Analyst, BI Intern
-- **Currently developing:** SQL, Python analytics, dashboard design, and data storytelling
-
-> I want to do more than present numbers. I want to understand what they mean and why they matter.
+> 💡 My goal is to combine technical skills with business understanding to turn raw data into useful insights.
 
 ---
 
-## `02` / Featured Work
-
-A selection of analytics projects organized by tool and problem-solving approach.
+## 🛠️ Skills & Technologies
 
 <div align="center">
+
+### Data Analytics & Business Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+</p>
+
+### Core Concepts
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-0EA5E9?style=flat-square" alt="Data Cleaning"/>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-2563EB?style=flat-square" alt="EDA"/>
+<img src="https://img.shields.io/badge/SQL%20Queries-0891B2?style=flat-square" alt="SQL Queries"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-7C3AED?style=flat-square" alt="KPI Reporting"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-9333EA?style=flat-square" alt="Visualization"/>
+<img src="https://img.shields.io/badge/Statistics-0F766E?style=flat-square" alt="Statistics"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Excel Projects
 
 <a href="https://github.com/awan-mansuri/Excel-Projects">
-  <img src="https://img.shields.io/badge/01-EXCEL%20ANALYTICS-16A34A?style=for-the-badge&labelColor=111827" alt="Excel Analytics"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="View Excel projects"/>
 </a>
 
-</div>
+**Projects**
+- Superstore Sales Dashboard
+- Student Performance Analysis
+- Personal Budget Analysis
 
-### 📊 Excel — Dashboards & Reporting
+**Focus**
+- KPI tracking and reporting
+- Data organization and analysis
+- Charts and dashboard design
+- Business insights
 
-**Focus:** Organizing data, tracking KPIs, and presenting business information in a useful format.
+</td>
+<td width="50%" valign="top">
 
-| Project | Analytical focus |
-|---|---|
-| Superstore Sales Dashboard | Sales performance and business metrics |
-| Student Performance Analysis | Academic performance and result patterns |
-| Personal Budget Analysis | Expense tracking and budget insights |
-
-<a href="https://github.com/awan-mansuri/Excel-Projects">
-  **↗ Explore Excel Projects**
-</a>
-
----
-
-<div align="center">
+### 🗄️ SQL Projects
 
 <a href="https://github.com/awan-mansuri/SQL-Projects">
-  <img src="https://img.shields.io/badge/02-SQL%20ANALYTICS-3B82F6?style=for-the-badge&labelColor=111827" alt="SQL Analytics"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="View SQL projects"/>
 </a>
 
-</div>
+**Projects**
+- Online Retail RFM Analysis
+- Bank Fraud Detection
 
-### 🗄️ SQL — Querying & Business Analysis
+**Focus**
+- Data aggregation and filtering
+- Joins and conditional logic
+- Customer segmentation
+- Analytical queries
 
-**Focus:** Extracting information from structured data and answering analytical questions through queries.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Analytical focus |
-|---|---|
-| Online Retail RFM Analysis | Customer segmentation using recency, frequency, and monetary value |
-| Bank Fraud Detection | Query-based exploration of fraud-related data |
-
-<a href="https://github.com/awan-mansuri/SQL-Projects">
-  **↗ Explore SQL Projects**
-</a>
-
----
-
-<div align="center">
+### 🐍 Python Projects
 
 <a href="https://github.com/awan-mansuri/Python-Projects">
-  <img src="https://img.shields.io/badge/03-PYTHON%20ANALYTICS-7C3AED?style=for-the-badge&labelColor=111827" alt="Python Analytics"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="View Python projects"/>
 </a>
 
-</div>
-
-### 🐍 Python — Data Exploration
-
-**Focus:** Using Python to investigate datasets, prepare data, and support analytical workflows.
-
-Areas of work and development:
-
+**Focus**
 - Data cleaning and preparation
 - Exploratory data analysis
-- Statistical summaries
+- Statistical analysis
 - Data visualization
-- Analytical problem-solving
-
-<a href="https://github.com/awan-mansuri/Python-Projects">
-  **↗ Explore Python Projects**
-</a>
-
----
-
-## `03` / Tools & Technologies
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Spreadsheet Analysis**
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-**Business Intelligence**
+### 🧠 AI & Machine Learning
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
+**Areas of interest**
+- Machine learning fundamentals
+- Data preprocessing
+- Feature selection
+- Model evaluation
 
-</td>
-<td align="center" width="25%">
-
-**Database Queries**
-
-<img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-
-</td>
-<td align="center" width="25%">
-
-**Programming**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+I am developing my skills in applying analytical and machine learning techniques to real-world datasets.
 
 </td>
 </tr>
@@ -160,164 +152,99 @@ Areas of work and development:
 
 </div>
 
-**Analytics concepts**
-
-`Data Cleaning` · `Exploratory Data Analysis` · `KPI Reporting` · `Data Visualization` · `Customer Segmentation` · `Statistical Analysis`
-
-*My goal is to keep improving these skills through hands-on projects and practical business problems.*
-
----
-
-## `04` / How I Approach Data
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="16%">
-
-**01**
-
-<br/>
-
-🔎
-
-<br/>
-
-Understand
-
-</td>
-<td align="center" width="16%">
-
-**02**
-
-<br/>
-
-📂
-
-<br/>
-
-Collect
-
-</td>
-<td align="center" width="16%">
-
-**03**
-
-<br/>
-
-🧹
-
-<br/>
-
-Clean
-
-</td>
-<td align="center" width="16%">
-
-**04**
-
-<br/>
-
-📈
-
-<br/>
-
-Analyze
-
-</td>
-<td align="center" width="16%">
-
-**05**
-
-<br/>
-
-📊
-
-<br/>
-
-Visualize
-
-</td>
-<td align="center" width="16%">
-
-**06**
-
-<br/>
-
-💡
-
-<br/>
-
-Communicate
-
-</td>
-</tr>
-</table>
-
-</div>
-
-I aim to follow a structured process: understand the question, validate the data, analyze the evidence, and present findings that people can act on.
+<p align="center">
+  <a href="https://github.com/awan-mansuri?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories"/>
+  </a>
+</p>
 
 ---
 
-## `05` / GitHub Activity
+## 🔄 My Data Analytics Workflow
 
 <div align="center">
 
-<a href="https://github.com/awan-mansuri">
-  <img src="https://github-readme-stats.vercel.app/api?username=awan-mansuri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=D1D5DB&rank_icon=github" height="165" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/awan-mansuri">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awan-mansuri&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=D1D5DB" height="165" alt="Most-used programming languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/awan-mansuri?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
-</a>
+| Step | Process | Objective |
+|:---:|---|---|
+| 01 | 🎯 Understand | Define the business problem |
+| 02 | 📥 Collect | Gather and inspect data |
+| 03 | 🧹 Clean | Handle missing and incorrect values |
+| 04 | 🔎 Analyze | Identify trends and patterns |
+| 05 | 📈 Visualize | Present insights through charts and dashboards |
+| 06 | 💡 Recommend | Communicate findings and actions |
 
 </div>
 
 ---
 
-## `06` / What I'm Working Toward
-
-I'm building a portfolio that demonstrates the practical skills expected in entry-level analytics roles:
-
-- Creating clear, useful dashboards and reports
-- Writing SQL queries to answer business questions
-- Analyzing data with Python
-- Improving data visualization and storytelling
-- Applying analytical thinking to real-world problems
-
-**Open to:** Data Analyst internships, entry-level analytics roles, MIS opportunities, and Reporting Analyst positions in Ahmedabad or remotely across India.
-
----
-
-## `07` / Let's Connect
+## 📈 GitHub Statistics
 
 <div align="center">
 
-Interested in data, analytics, or collaborating on a project?
+<a href="https://github.com/awan-mansuri">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=awan-mansuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/awan-mansuri">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awan-mansuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
+</a>
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awan-mansuri&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 Career Goals
+
+I'm interested in opportunities where I can apply my analytical skills, learn from experienced professionals, and contribute to real business problems.
+
+- 📊 Data Analyst Intern / Junior Data Analyst
+- 📋 MIS Executive / Reporting Analyst
+- 📈 Business Intelligence Intern
+- 📉 Power BI Intern
+- 🧠 AI/ML Intern
+
+**Preferred locations:** Ahmedabad, Gujarat, and remote opportunities across India.
+
+---
+
+## 📚 Currently Improving
+
+- Writing better SQL queries
+- Building clear, useful dashboards
+- Improving Python data analysis
+- Learning Power BI data modeling and DAX
+- Strengthening statistics and machine learning fundamentals
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to connecting with recruiters, fellow analysts, and professionals working in data analytics and business intelligence.
 
 <a href="https://www.linkedin.com/in/awan-mansuri">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/awan-mansuri?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-My%20Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects"/>
+
+<a href="https://github.com/awan-mansuri">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<sub>“Data is the new oil, but insights are the real value.”</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123B70,100:7C3AED&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
-<br/><br/>
+**⭐ Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:312E81&height=90&section=footer" width="100%" alt="Portfolio footer"/>
+*Learning continuously • Analyzing thoughtfully • Growing through projects*
+
+<br/>
+
+> “Data is the new oil, but insights are the real value.”
 
 </div>
