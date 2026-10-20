@@ -1,202 +1,246 @@
 
+<!-- ================= PROFILE HEADER ================= -->
+
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Awan Mansuri Data Analytics Portfolio"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:123B70,100:7C3AED&text=Awan%20Mansuri&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%2FML&descSize=14&descAlignY=62&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Awan Mansuri profile banner"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;MSc+IT+Student+%7C+AI+%26+Machine+Learning;Turning+Data+into+Meaningful+Insights;Building+Dashboards+and+Analytics+Projects" alt="Typing introduction"/>
+</a>
 
 <p>
-<a href="https://www.linkedin.com/in/awan-mansuri">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/awan-mansuri?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Projects-38BDF8?style=for-the-badge&logo=github&logoColor=07111F" alt="Projects"/>
-</a>
+  <a href="https://github.com/awan-mansuri">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/awan-mansuri">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
-**MSc IT Student · Aspiring Data Analyst · Ahmedabad, India**
-
-*I explore data, investigate patterns, and turn analysis into clear business insights.*
+**I turn data into insights that help people make better decisions.**
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## 👨‍💻 About Me
 
-## 👋 About Me
+Hi! I'm **Awan Mansuri**, an MSc IT student interested in Data Analytics, Business Intelligence, and Artificial Intelligence.
 
-I'm an MSc IT student interested in **Data Analytics, Business Intelligence, and AI/ML**. I am building a practical portfolio around spreadsheet analysis, SQL investigations, Python-based exploration, and visual reporting.
+I enjoy exploring datasets, identifying patterns, analyzing business performance, and presenting findings through reports and dashboards.
 
-I care about more than charts: I want to understand the question, check data quality, explain what the analysis shows, and communicate limitations clearly.
+- 🎓 **Education:** MSc IT, with an interest in AI/ML
+- 📍 **Location:** Ahmedabad, Gujarat, India
+- 📊 **Primary interests:** Data Analytics, MIS, Reporting and Business Intelligence
+- 🧰 **Tools:** Excel, SQL, Python and data visualization tools
+- 🧠 **Learning focus:** Analytical problem-solving, dashboard development and machine learning
+- 💼 **Career goal:** Data Analyst internships and entry-level analytics roles
 
-- 📊 Data analysis and business reporting
-- 🧹 Data preparation and exploratory analysis
-- 🗄️ SQL-based business and customer analysis
-- 📈 Dashboard and visualization development
-- 💼 Interested in internships and entry-level analytics roles
+> 💡 My goal is to combine technical skills with business understanding to turn raw data into useful insights.
 
-</td>
-<td width="38%" valign="top">
+---
 
-## 📍 Profile
-
-| | |
-|---|---|
-| Education | MSc IT |
-| Location | Ahmedabad, Gujarat |
-| Focus | Data Analytics |
-| Interest | AI/ML |
-| Opportunities | Internships / Entry-level |
-
-</td>
-</tr>
-</table>
-
-## 🧰 Tools & Skills
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
+### Data Analytics & Business Intelligence
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL"/>
 
-<img src="https://img.shields.io/badge/Data%20Cleaning-0F766E?style=flat-square" alt="Data cleaning"/>
-<img src="https://img.shields.io/badge/Exploratory%20Analysis-2563EB?style=flat-square" alt="Exploratory analysis"/>
-<img src="https://img.shields.io/badge/KPI%20Reporting-7C3AED?style=flat-square" alt="KPI reporting"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-0369A1?style=flat-square" alt="Data visualization"/>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+</p>
+
+### Core Concepts
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-0EA5E9?style=flat-square" alt="Data Cleaning"/>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-2563EB?style=flat-square" alt="EDA"/>
+<img src="https://img.shields.io/badge/SQL%20Queries-0891B2?style=flat-square" alt="SQL Queries"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-7C3AED?style=flat-square" alt="KPI Reporting"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-9333EA?style=flat-square" alt="Visualization"/>
+<img src="https://img.shields.io/badge/Statistics-0F766E?style=flat-square" alt="Statistics"/>
 
 </div>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/awan-mansuri/Excel-Projects">
-<img src="assets/excel-card.svg" width="100%" alt="Excel analytics project card"/>
-</a>
+### 📊 Excel Projects
 
-### 📊 Excel Analytics
+<a href="https://github.com/awan-mansuri/Excel-Projects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="View Excel projects"/>
+</a>
 
 **Projects**
 - Superstore Sales Dashboard
 - Student Performance Analysis
 - Personal Budget Analysis
 
-**Focus:** Dashboard design, KPI summaries, trend analysis, and clear reporting.
-
-[**Explore Excel Projects →**](https://github.com/awan-mansuri/Excel-Projects)
+**Focus**
+- KPI tracking and reporting
+- Data organization and analysis
+- Charts and dashboard design
+- Business insights
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/awan-mansuri/SQL-Projects">
-<img src="assets/sql-card.svg" width="100%" alt="SQL analytics project card"/>
-</a>
+### 🗄️ SQL Projects
 
-### 🗄️ SQL Analytics
+<a href="https://github.com/awan-mansuri/SQL-Projects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="View SQL projects"/>
+</a>
 
 **Projects**
 - Online Retail RFM Analysis
 - Bank Fraud Detection
 
-**Focus:** Querying, aggregations, customer segmentation, and transaction analysis.
-
-[**Explore SQL Projects →**](https://github.com/awan-mansuri/SQL-Projects)
+**Focus**
+- Data aggregation and filtering
+- Joins and conditional logic
+- Customer segmentation
+- Analytical queries
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+### 🐍 Python Projects
+
 <a href="https://github.com/awan-mansuri/Python-Projects">
-<img src="assets/python-card.svg" width="100%" alt="Python analytics project card"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="View Python projects"/>
 </a>
 
-### 🐍 Python Analytics
-
 **Focus**
-- Data preparation and cleaning
+- Data cleaning and preparation
 - Exploratory data analysis
-- Statistical summaries
+- Statistical analysis
 - Data visualization
-
-[**Explore Python Projects →**](https://github.com/awan-mansuri/Python-Projects)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 My Analysis Workflow
+### 🧠 AI & Machine Learning
 
-| Stage | What I do |
-|---|---|
-| 01 · Define | Start with a clear question |
-| 02 · Prepare | Inspect, clean, validate |
-| 03 · Analyze | Use appropriate methods |
-| 04 · Explain | Show evidence and limitations |
-| 05 · Communicate | Recommend practical next steps |
+**Areas of interest**
+- Machine learning fundamentals
+- Data preprocessing
+- Feature selection
+- Model evaluation
+
+I am developing my skills in applying analytical and machine learning techniques to real-world datasets.
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<p align="center">
+  <a href="https://github.com/awan-mansuri?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories"/>
+  </a>
+</p>
+
+---
+
+## 🔄 My Data Analytics Workflow
+
 <div align="center">
 
-<a href="https://github.com/awan-mansuri?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="All repositories"/>
-</a>
+| Step | Process | Objective |
+|:---:|---|---|
+| 01 | 🎯 Understand | Define the business problem |
+| 02 | 📥 Collect | Gather and inspect data |
+| 03 | 🧹 Clean | Handle missing and incorrect values |
+| 04 | 🔎 Analyze | Identify trends and patterns |
+| 05 | 📈 Visualize | Present insights through charts and dashboards |
+| 06 | 💡 Recommend | Communicate findings and actions |
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/awan-mansuri">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=awan-mansuri&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=awan-mansuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
 </a>
+
 <a href="https://github.com/awan-mansuri">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awan-mansuri&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awan-mansuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
 </a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awan-mansuri&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🎯 Career Interests
+## 🎯 Career Goals
+
+I'm interested in opportunities where I can apply my analytical skills, learn from experienced professionals, and contribute to real business problems.
+
+- 📊 Data Analyst Intern / Junior Data Analyst
+- 📋 MIS Executive / Reporting Analyst
+- 📈 Business Intelligence Intern
+- 📉 Power BI Intern
+- 🧠 AI/ML Intern
+
+**Preferred locations:** Ahmedabad, Gujarat, and remote opportunities across India.
+
+---
+
+## 📚 Currently Improving
+
+- Writing better SQL queries
+- Building clear, useful dashboards
+- Improving Python data analysis
+- Learning Power BI data modeling and DAX
+- Strengthening statistics and machine learning fundamentals
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Analyst-2563EB?style=for-the-badge" alt="Data Analyst"/>
-<img src="https://img.shields.io/badge/MIS%20Executive-0F766E?style=for-the-badge" alt="MIS Executive"/>
-<img src="https://img.shields.io/badge/Reporting%20Analyst-6D28D9?style=for-the-badge" alt="Reporting Analyst"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-0369A1?style=for-the-badge" alt="Business Intelligence"/>
-
-**Preferred locations:** Ahmedabad · Gujarat · Remote India
+I'm open to connecting with recruiters, fellow analysts, and professionals working in data analytics and business intelligence.
 
 <a href="https://www.linkedin.com/in/awan-mansuri">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-</div>
+<a href="https://github.com/awan-mansuri">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
----
+<br/><br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123B70,100:7C3AED&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
-### 💭 A Data Mindset
+**⭐ Thanks for visiting my profile!**
 
-> **“Data is the new oil, but insights are the real value.”**
-
-<sub>Question the data. Validate the evidence. Communicate the insight.</sub>
+*Learning continuously • Analyzing thoughtfully • Growing through projects*
 
 </div>
