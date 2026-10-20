@@ -27,18 +27,18 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Awan Mansuri**, an MSc IT student interested in Data Analytics, Business Intelligence, and Artificial Intelligence.
+Hi! I'm **Awan Mansuri**, an MSc IT student focused on developing practical skills in **Data Analytics and Business Intelligence**, with an interest in Artificial Intelligence and Machine Learning.
 
 I enjoy exploring datasets, identifying patterns, analyzing business performance, and presenting findings through reports and dashboards.
 
-- 🎓 **Education:** MSc IT, with an interest in AI/ML
+- 🎓 **Education:** MSc IT, AI/ML interest
 - 📍 **Location:** Ahmedabad, Gujarat, India
-- 📊 **Primary interests:** Data Analytics, MIS, Reporting and Business Intelligence
-- 🧰 **Tools:** Excel, SQL, Python, Power BI and data visualization tools
-- 🧠 **Learning focus:** Analytical problem-solving, dashboard development and machine learning
-- 💼 **Career goal:** Data Analyst internships and entry-level analytics roles
+- 📊 **Primary interests:** Data Analytics, MIS Reporting and Business Intelligence
+- 🧰 **Tools:** Excel, SQL, Python, Power BI and data visualization libraries
+- 🔍 **Analytical skills:** Data cleaning, EDA, KPI analysis, customer segmentation and statistical analysis
+- 💼 **Career goal:** Data Analyst, MIS Executive, Reporting Analyst and Power BI/BI internship roles
 
-> 💡 My goal is to combine technical skills with business understanding to turn raw data into useful insights.
+> 💡 My goal is to combine technical analysis with business understanding to turn raw data into useful insights.
 
 ---
 
@@ -57,6 +57,7 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/DAX-8B5CF6?style=flat-square" alt="DAX"/>
 </p>
 
 ### Core Concepts
@@ -67,6 +68,7 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 <img src="https://img.shields.io/badge/KPI%20Reporting-7C3AED?style=flat-square" alt="KPI Reporting"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-9333EA?style=flat-square" alt="Visualization"/>
 <img src="https://img.shields.io/badge/Statistics-0F766E?style=flat-square" alt="Statistics"/>
+<img src="https://img.shields.io/badge/Customer%20Segmentation-0369A1?style=flat-square" alt="Customer Segmentation"/>
 
 </div>
 
@@ -86,11 +88,18 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 <img src="https://img.shields.io/badge/View%20Projects-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="View Excel projects"/>
 </a>
 
+**Projects**
 - Superstore Sales Dashboard
 - Student Performance Analysis
 - Personal Budget Analysis
 
-<sub>**Focus:** KPIs, reporting, charts and business insights</sub>
+**Skills demonstrated**
+- KPI reporting and dashboard design
+- PivotTables, PivotCharts and slicers
+- Formula-based analysis and comparisons
+- Sales, student performance and budget reporting
+
+<sub>**Tools:** Excel, formulas, PivotTables, charts and Power Query where used</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -101,10 +110,17 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 <img src="https://img.shields.io/badge/View%20Projects-2563EB?style=flat-square&logo=mysql&logoColor=white" alt="View SQL projects"/>
 </a>
 
+**Projects**
 - Online Retail RFM Analysis
 - Bank Fraud Detection
 
-<sub>**Focus:** Queries, joins, aggregation and customer analysis</sub>
+**Skills demonstrated**
+- Filtering, joins and aggregation
+- Customer behavior and RFM segmentation
+- Conditional logic and transaction analysis
+- Extracting useful information from relational data
+
+<sub>**Tools:** SQL and MySQL</sub>
 
 </td>
 </tr>
@@ -112,20 +128,22 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Power BI — Sales Dashboard
+### 📈 Power BI — MavenTech CRM Dashboard
 
 <a href="https://github.com/awan-mansuri/PowerBI-Projects">
-<img src="https://img.shields.io/badge/View%20Projects-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="View Power BI projects"/>
+<img src="https://img.shields.io/badge/View%20Project-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="View Power BI project"/>
 </a>
 
+**Dashboard features**
 - Revenue and Win Rate KPIs
-- Average Deal Size
-- Average Sales Cycle Days
-- Quarterly performance trends
-- Sales-stage funnel
-- Quarter slicer and comparisons
+- Average Deal Size and Average Cycle Days
+- Quarterly revenue trends
+- Deal-stage funnel
+- Revenue and win rate by manager
+- Product and sector performance
+- Agent performance ranking table
 
-<sub>**Tools:** Power BI, DAX and data modeling</sub>
+<sub>**Tools:** Power BI, DAX, data modeling and visualization</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -136,12 +154,19 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 <img src="https://img.shields.io/badge/View%20Projects-7C3AED?style=flat-square&logo=python&logoColor=white" alt="View Python projects"/>
 </a>
 
+**Analytics work**
 - Data cleaning and preparation
 - Exploratory data analysis
 - Statistical analysis
 - Data visualization
+- E-commerce analysis
 
-<sub>**Focus:** Data exploration and analytical insights</sub>
+**Skills demonstrated**
+- Working with structured datasets
+- Exploring trends and relationships
+- Communicating findings through charts
+
+<sub>**Tools:** Python, pandas, NumPy, Matplotlib, Seaborn and SciPy where used</sub>
 
 </td>
 </tr>
@@ -151,19 +176,20 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 
 ### 🧠 AI & Machine Learning
 
+**Areas of interest**
 - Machine learning fundamentals
 - Data preprocessing
 - Feature selection
 - Model evaluation
 
-<sub>**Focus:** Applying analytical methods to datasets</sub>
+<sub>**Focus:** Building on analytics and statistics knowledge to explore machine learning methods.</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔎 Explore More
 
-Browse my other repositories to see additional projects, code and experiments.
+Explore my repositories for project notebooks, SQL queries, dashboards, and additional analytical work.
 
 <a href="https://github.com/awan-mansuri?tab=repositories">
 <img src="https://img.shields.io/badge/All%20Repositories-111827?style=flat-square&logo=github&logoColor=white" alt="All repositories"/>
@@ -179,24 +205,18 @@ Browse my other repositories to see additional projects, code and experiments.
 
 ## 🔄 My Data Analytics Workflow
 
-```mermaid
-flowchart TD
-    A["🎯 01 · Understand<br/>Define the business problem"]
-    B["📥 02 · Collect<br/>Gather and inspect data"]
-    C["🧹 03 · Clean<br/>Handle missing and incorrect values"]
-    D["🔎 04 · Analyze<br/>Discover trends and patterns"]
-    E["📊 05 · Visualize<br/>Build charts and dashboards"]
-    F["💡 06 · Communicate<br/>Share insights and recommendations"]
+<div align="center">
 
-    A --> B --> C --> D --> E --> F
+| Step | Process | Objective |
+|:---:|---|---|
+| 01 | 🎯 Understand | Define the business question |
+| 02 | 📥 Collect | Gather and inspect data |
+| 03 | 🧹 Clean | Check missing values, duplicates and data quality |
+| 04 | 🔎 Analyze | Identify trends, patterns and differences |
+| 05 | 📈 Visualize | Present findings through charts and dashboards |
+| 06 | 💡 Recommend | Communicate insights, limitations and possible next steps |
 
-    style A fill:#172554,stroke:#38BDF8,color:#FFFFFF
-    style B fill:#172554,stroke:#38BDF8,color:#FFFFFF
-    style C fill:#172554,stroke:#38BDF8,color:#FFFFFF
-    style D fill:#172554,stroke:#818CF8,color:#FFFFFF
-    style E fill:#172554,stroke:#818CF8,color:#FFFFFF
-    style F fill:#312E81,stroke:#A78BFA,color:#FFFFFF
-```
+</div>
 
 ---
 
@@ -222,7 +242,7 @@ flowchart TD
 
 ## 🎯 Career Goals
 
-I'm interested in opportunities where I can apply my analytical skills, learn from experienced professionals, and contribute to real business problems.
+I'm looking for opportunities where I can apply my analytical skills, learn from experienced professionals, and contribute to real business problems.
 
 - 📊 Data Analyst Intern / Junior Data Analyst
 - 📋 MIS Executive / Reporting Analyst
@@ -236,11 +256,12 @@ I'm interested in opportunities where I can apply my analytical skills, learn fr
 
 ## 📚 Currently Improving
 
-- Writing better SQL queries
-- Building clear, useful dashboards
-- Improving Python data analysis
-- Learning Power BI data modeling and DAX
-- Strengthening statistics and machine learning fundamentals
+- Writing clear and efficient SQL queries
+- Strengthening Python data analysis and statistical skills
+- Building useful dashboards and business reports
+- Improving Power BI data modeling and DAX
+- Learning statistics and machine learning fundamentals
+- Explaining analytical findings in business-friendly language
 
 ---
 
@@ -248,7 +269,7 @@ I'm interested in opportunities where I can apply my analytical skills, learn fr
 
 <div align="center">
 
-I'm open to connecting with recruiters, fellow analysts, and professionals working in data analytics and business intelligence.
+I'm open to connecting with recruiters, analysts, and professionals working in Data Analytics and Business Intelligence.
 
 <a href="https://www.linkedin.com/in/awan-mansuri">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
