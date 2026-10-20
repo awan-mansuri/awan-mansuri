@@ -163,7 +163,7 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 
 ### 🔎 Explore More
 
-Explore my other repositories for additional code, notebooks, and analysis.
+Explore my repositories for additional code, notebooks, and analysis.
 
 <a href="https://github.com/awan-mansuri?tab=repositories">
 <img src="https://img.shields.io/badge/All%20Repositories-111827?style=flat-square&logo=github&logoColor=white" alt="All repositories"/>
@@ -182,13 +182,13 @@ Explore my other repositories for additional code, notebooks, and analysis.
 <div align="center">
 
 ```mermaid
-flowchart TD
-    A(["🎯 01 · BUSINESS QUESTION<br/>Define the problem"])
-    B(["📥 02 · DATA COLLECTION<br/>Gather and inspect data"])
-    C(["🧹 03 · DATA CLEANING<br/>Fix missing and incorrect values"])
-    D(["🔎 04 · DATA ANALYSIS<br/>Explore trends and patterns"])
-    E(["📊 05 · VISUALIZATION<br/>Build reports and dashboards"])
-    F(["💡 06 · INSIGHTS & ACTION<br/>Communicate recommendations"])
+flowchart LR
+    A(["🎯 01<br/>Business Question"])
+    B(["📥 02<br/>Data Collection"])
+    C(["🧹 03<br/>Data Cleaning"])
+    D(["🔎 04<br/>Data Analysis"])
+    E(["📊 05<br/>Visualization"])
+    F(["💡 06<br/>Insights & Action"])
 
     A --> B --> C --> D --> E --> F
 
