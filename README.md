@@ -34,7 +34,7 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 - 🎓 **Education:** MSc IT, with an interest in AI/ML
 - 📍 **Location:** Ahmedabad, Gujarat, India
 - 📊 **Primary interests:** Data Analytics, MIS, Reporting and Business Intelligence
-- 🧰 **Tools:** Excel, SQL, Python and data visualization tools
+- 🧰 **Tools:** Excel, SQL, Python, Power BI and data visualization tools
 - 🧠 **Learning focus:** Analytical problem-solving, dashboard development and machine learning
 - 💼 **Career goal:** Data Analyst internships and entry-level analytics roles
 
@@ -118,7 +118,35 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 
 </td>
 </tr>
+
 <tr>
+<td width="50%" valign="top">
+
+### 📈 Power BI — CRM Sales Dashboard
+
+<a href="https://github.com/awan-mansuri/PowerBI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="View Power BI project"/>
+</a>
+
+**Dashboard Features**
+- Revenue KPI
+- Win Rate
+- Average Deal Size
+- Average Sales Cycle Days
+- Quarterly performance trends
+- Deal-stage funnel
+- Interactive quarter slicer
+- Quarter-over-quarter comparisons
+
+**Tools & Techniques**
+- Power BI
+- DAX measures
+- Data modeling
+- KPI visualization
+
+**Dataset:** CRM sales pipeline (`sales_pipeline`)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🐍 Python Projects
@@ -133,7 +161,16 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 - Statistical analysis
 - Data visualization
 
+**Analytical Approach**
+- Explore and validate datasets
+- Identify patterns and trends
+- Summarize findings
+- Communicate insights
+
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🧠 AI & Machine Learning
@@ -145,6 +182,21 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 - Model evaluation
 
 I am developing my skills in applying analytical and machine learning techniques to real-world datasets.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 CRM Dashboard — Business Objective
+
+Analyze sales pipeline performance and understand how effectively deals convert into revenue.
+
+**Questions explored**
+- How much revenue comes from won deals?
+- What percentage of deals are won?
+- What is the average deal value?
+- How long does it take to close a deal?
+- How does performance change by quarter?
+- How are deals distributed across stages?
 
 </td>
 </tr>
