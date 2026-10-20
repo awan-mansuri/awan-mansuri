@@ -179,18 +179,24 @@ Browse my other repositories to see additional projects, code and experiments.
 
 ## 🔄 My Data Analytics Workflow
 
-<div align="center">
+```mermaid
+flowchart TD
+    A["🎯 01 · Understand<br/>Define the business problem"]
+    B["📥 02 · Collect<br/>Gather and inspect data"]
+    C["🧹 03 · Clean<br/>Handle missing and incorrect values"]
+    D["🔎 04 · Analyze<br/>Discover trends and patterns"]
+    E["📊 05 · Visualize<br/>Build charts and dashboards"]
+    F["💡 06 · Communicate<br/>Share insights and recommendations"]
 
-| Step | Process | Objective |
-|:---:|---|---|
-| 01 | 🎯 Understand | Define the business problem |
-| 02 | 📥 Collect | Gather and inspect data |
-| 03 | 🧹 Clean | Handle missing and incorrect values |
-| 04 | 🔎 Analyze | Identify trends and patterns |
-| 05 | 📈 Visualize | Present insights through charts and dashboards |
-| 06 | 💡 Recommend | Communicate findings and actions |
+    A --> B --> C --> D --> E --> F
 
-</div>
+    style A fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    style B fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    style C fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    style D fill:#172554,stroke:#818CF8,color:#FFFFFF
+    style E fill:#172554,stroke:#818CF8,color:#FFFFFF
+    style F fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+```
 
 ---
 
