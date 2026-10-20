@@ -1,86 +1,246 @@
-<h1 align="center">Hi, I'm Awan Mansuri 👋</h1>
 
-<p align="center">
-🎯 Aspiring Data Analyst &nbsp;|&nbsp; BSc IT &nbsp;|&nbsp; MSc IT (AI/ML), in progress &nbsp;|&nbsp; Ahmedabad, India
+<!-- ================= PROFILE HEADER ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:123B70,100:7C3AED&text=Awan%20Mansuri&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%2FML&descSize=14&descAlignY=62&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Awan Mansuri profile banner"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;MSc+IT+Student+%7C+AI+%26+Machine+Learning;Turning+Data+into+Meaningful+Insights;Building+Dashboards+and+Analytics+Projects" alt="Typing introduction"/>
+</a>
+
+<p>
+  <a href="https://github.com/awan-mansuri">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/awan-mansuri">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/awan-mansuri">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/awan-mansuri">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+**I turn data into insights that help people make better decisions.**
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BSc Information Technology, Lok Jagruti Kendra University (2026)
-- 🎓 MSc IT (AI/ML), in progress
-- 📍 Ahmedabad, Gujarat, India
-- 🎯 Goal: Data Analyst / Business Analyst role (Ahmedabad or remote)
-- 📊 I start from a business question, then use data to answer it
-- 🌱 Currently building: my first Power BI dashboard, and learning statistics
+Hi! I'm **Awan Mansuri**, an MSc IT student interested in Data Analytics, Business Intelligence, and Artificial Intelligence.
+
+I enjoy exploring datasets, identifying patterns, analyzing business performance, and presenting findings through reports and dashboards.
+
+- 🎓 **Education:** MSc IT, with an interest in AI/ML
+- 📍 **Location:** Ahmedabad, Gujarat, India
+- 📊 **Primary interests:** Data Analytics, MIS, Reporting and Business Intelligence
+- 🧰 **Tools:** Excel, SQL, Python and data visualization tools
+- 🧠 **Learning focus:** Analytical problem-solving, dashboard development and machine learning
+- 💼 **Career goal:** Data Analyst internships and entry-level analytics roles
+
+> 💡 My goal is to combine technical skills with business understanding to turn raw data into useful insights.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+### Data Analytics & Business Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL"/>
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
 </p>
 
----
+### Core Concepts
 
-## 📂 Featured Projects
+<img src="https://img.shields.io/badge/Data%20Cleaning-0EA5E9?style=flat-square" alt="Data Cleaning"/>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-2563EB?style=flat-square" alt="EDA"/>
+<img src="https://img.shields.io/badge/SQL%20Queries-0891B2?style=flat-square" alt="SQL Queries"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-7C3AED?style=flat-square" alt="KPI Reporting"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-9333EA?style=flat-square" alt="Visualization"/>
+<img src="https://img.shields.io/badge/Statistics-0F766E?style=flat-square" alt="Statistics"/>
 
-### 🐍 Python
-| # | Project | Skills | Link |
-|---|---|---|---|
-| 1 | Olist E-commerce Analysis: revenue drivers and late deliveries | pandas merge, datetime, seaborn, Mann-Whitney test | [View](https://github.com/awan-mansuri/Python-Projects/tree/main/Project1_Olist_Ecommerce_Analysis) |
-
-**Key Insight:** Late deliveries are only 6.8% of orders, but they average 2.27 stars against 4.29 for on-time orders (p < 0.001).
-
-### 🗄️ SQL
-| # | Project | Skills | Link |
-|---|---|---|---|
-| 1 | Online Retail RFM Analysis (541K transactions) | Window functions, subqueries, CASE, segmentation | [View](https://github.com/awan-mansuri/SQL-Projects/tree/main/Project1_Online_Retail_RFM) |
-| 2 | Bank Fraud Pattern Analysis (285K transactions) | Conditional aggregation, rule testing | [View](https://github.com/awan-mansuri/SQL-Projects/tree/main/Project2_Bank_Fraud_Detection) |
-
-**Key Insights:**
-- 29.8% of customers generate 77.2% of revenue (£8.9M+) in the retail data
-- Fraud rate rises with transaction size, but a simple amount-and-time rule caught only 22 of 492 frauds, so rules alone are not enough
-
-### 📊 Excel
-| # | Project | Level | Tools | Link |
-|---|---|---|---|---|
-| 1 | Superstore Sales Dashboard | 🔴 Advanced | Power Query, Pivot Tables, Slicers | [View](https://github.com/awan-mansuri/Excel-Projects/tree/main/Superstore-Sales) |
-| 2 | Student Performance Dashboard | 🟡 Intermediate | AVERAGEIF, Slicers | [View](https://github.com/awan-mansuri/Excel-Projects/tree/main/Student-Performance) |
-| 3 | Personal Budget Dashboard | 🟢 Beginner | SUMIF, COUNTIF | [View](https://github.com/awan-mansuri/Excel-Projects/tree/main/Budget-Analysis) |
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Excel Projects
+
+<a href="https://github.com/awan-mansuri/Excel-Projects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="View Excel projects"/>
+</a>
+
+**Projects**
+- Superstore Sales Dashboard
+- Student Performance Analysis
+- Personal Budget Analysis
+
+**Focus**
+- KPI tracking and reporting
+- Data organization and analysis
+- Charts and dashboard design
+- Business insights
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ SQL Projects
+
+<a href="https://github.com/awan-mansuri/SQL-Projects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="View SQL projects"/>
+</a>
+
+**Projects**
+- Online Retail RFM Analysis
+- Bank Fraud Detection
+
+**Focus**
+- Data aggregation and filtering
+- Joins and conditional logic
+- Customer segmentation
+- Analytical queries
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python Projects
+
+<a href="https://github.com/awan-mansuri/Python-Projects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="View Python projects"/>
+</a>
+
+**Focus**
+- Data cleaning and preparation
+- Exploratory data analysis
+- Statistical analysis
+- Data visualization
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI & Machine Learning
+
+**Areas of interest**
+- Machine learning fundamentals
+- Data preprocessing
+- Feature selection
+- Model evaluation
+
+I am developing my skills in applying analytical and machine learning techniques to real-world datasets.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=awan-mansuri&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awan-mansuri&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+  <a href="https://github.com/awan-mansuri?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories"/>
+  </a>
 </p>
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🔄 My Data Analytics Workflow
 
-| Skill | Status |
-|---|---|
-| Microsoft Excel | ✅ 3 dashboards |
-| SQL / MySQL | ✅ 2 projects |
-| Python | ✅ 1 project, more coming |
-| Power BI | 🔄 Building my first dashboard |
-| Statistics | 🔜 Next |
+<div align="center">
+
+| Step | Process | Objective |
+|:---:|---|---|
+| 01 | 🎯 Understand | Define the business problem |
+| 02 | 📥 Collect | Gather and inspect data |
+| 03 | 🧹 Clean | Handle missing and incorrect values |
+| 04 | 🔎 Analyze | Identify trends and patterns |
+| 05 | 📈 Visualize | Present insights through charts and dashboards |
+| 06 | 💡 Recommend | Communicate findings and actions |
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/awan-mansuri">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=awan-mansuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/awan-mansuri">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awan-mansuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awan-mansuri&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 Career Goals
+
+I'm interested in opportunities where I can apply my analytical skills, learn from experienced professionals, and contribute to real business problems.
+
+- 📊 Data Analyst Intern / Junior Data Analyst
+- 📋 MIS Executive / Reporting Analyst
+- 📈 Business Intelligence Intern
+- 📉 Power BI Intern
+- 🧠 AI/ML Intern
+
+**Preferred locations:** Ahmedabad, Gujarat, and remote opportunities across India.
+
+---
+
+## 📚 Currently Improving
+
+- Writing better SQL queries
+- Building clear, useful dashboards
+- Improving Python data analysis
+- Learning Power BI data modeling and DAX
+- Strengthening statistics and machine learning fundamentals
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to connecting with recruiters, fellow analysts, and professionals working in data analytics and business intelligence.
+
+<a href="https://www.linkedin.com/in/awan-mansuri">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/awan-mansuri">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123B70,100:7C3AED&height=110&section=footer" width="100%" alt="Decorative footer"/>
+
+**⭐ Thanks for visiting my profile!**
+
+*Learning continuously • Analyzing thoughtfully • Growing through projects*
+
+</div>
