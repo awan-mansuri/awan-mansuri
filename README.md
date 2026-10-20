@@ -183,12 +183,12 @@ Explore my repositories for additional code, notebooks, and analysis.
 
 ```mermaid
 flowchart LR
-    A(["🎯 01<br/>Business Question"])
-    B(["📥 02<br/>Data Collection"])
-    C(["🧹 03<br/>Data Cleaning"])
-    D(["🔎 04<br/>Data Analysis"])
-    E(["📊 05<br/>Visualization"])
-    F(["💡 06<br/>Insights & Action"])
+    A["🎯 01<br/>BUSINESS QUESTION<br/>Define the problem"]
+    B["📥 02<br/>DATA COLLECTION<br/>Gather the data"]
+    C["🧹 03<br/>DATA CLEANING<br/>Prepare the data"]
+    D["🔎 04<br/>DATA ANALYSIS<br/>Find patterns"]
+    E["📊 05<br/>VISUALIZATION<br/>Build dashboards"]
+    F["💡 06<br/>INSIGHTS & ACTION<br/>Recommend next steps"]
 
     A --> B --> C --> D --> E --> F
 
@@ -199,7 +199,7 @@ flowchart LR
     style E fill:#4C1D95,stroke:#A78BFA,stroke-width:2px,color:#FFFFFF
     style F fill:#134E4A,stroke:#2DD4BF,stroke-width:2px,color:#FFFFFF
 
-    linkStyle 0,1,2,3,4 stroke:#64748B,stroke-width:2px
+    linkStyle default stroke:#64748B,stroke-width:2px
 ```
 
 </div>
