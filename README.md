@@ -181,26 +181,14 @@ Explore my repositories for additional code, notebooks, and analysis.
 
 <div align="center">
 
-```mermaid
-flowchart LR
-    A["🎯 01<br/>BUSINESS QUESTION<br/>Define the problem"]
-    B["📥 02<br/>DATA COLLECTION<br/>Gather the data"]
-    C["🧹 03<br/>DATA CLEANING<br/>Prepare the data"]
-    D["🔎 04<br/>DATA ANALYSIS<br/>Find patterns"]
-    E["📊 05<br/>VISUALIZATION<br/>Build dashboards"]
-    F["💡 06<br/>INSIGHTS & ACTION<br/>Recommend next steps"]
-
-    A --> B --> C --> D --> E --> F
-
-    style A fill:#0B1F33,stroke:#38BDF8,stroke-width:2px,color:#FFFFFF
-    style B fill:#102A43,stroke:#38BDF8,stroke-width:2px,color:#FFFFFF
-    style C fill:#123B70,stroke:#38BDF8,stroke-width:2px,color:#FFFFFF
-    style D fill:#312E81,stroke:#818CF8,stroke-width:2px,color:#FFFFFF
-    style E fill:#4C1D95,stroke:#A78BFA,stroke-width:2px,color:#FFFFFF
-    style F fill:#134E4A,stroke:#2DD4BF,stroke-width:2px,color:#FFFFFF
-
-    linkStyle default stroke:#64748B,stroke-width:2px
-```
+| Step | Process | Objective |
+|:---:|---|---|
+| 01 | 🎯 Understand | Define the business problem |
+| 02 | 📥 Collect | Gather and inspect data |
+| 03 | 🧹 Clean | Handle missing and incorrect values |
+| 04 | 🔎 Analyze | Identify trends and patterns |
+| 05 | 📈 Visualize | Present insights through charts and dashboards |
+| 06 | 💡 Recommend | Communicate findings and actions |
 
 </div>
 
