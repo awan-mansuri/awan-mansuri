@@ -83,19 +83,14 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 ### 📊 Excel Projects
 
 <a href="https://github.com/awan-mansuri/Excel-Projects">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="View Excel projects"/>
+<img src="https://img.shields.io/badge/View%20Projects-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="View Excel projects"/>
 </a>
 
-**Projects**
 - Superstore Sales Dashboard
 - Student Performance Analysis
 - Personal Budget Analysis
 
-**Focus**
-- KPI tracking and reporting
-- Data organization and analysis
-- Charts and dashboard design
-- Business insights
+<sub>**Focus:** KPIs, reporting, charts and business insights</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -103,18 +98,13 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 ### 🗄️ SQL Projects
 
 <a href="https://github.com/awan-mansuri/SQL-Projects">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="View SQL projects"/>
+<img src="https://img.shields.io/badge/View%20Projects-2563EB?style=flat-square&logo=mysql&logoColor=white" alt="View SQL projects"/>
 </a>
 
-**Projects**
 - Online Retail RFM Analysis
 - Bank Fraud Detection
 
-**Focus**
-- Data aggregation and filtering
-- Joins and conditional logic
-- Customer segmentation
-- Analytical queries
+<sub>**Focus:** Queries, joins, aggregation and customer analysis</sub>
 
 </td>
 </tr>
@@ -122,29 +112,20 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Power BI — CRM Sales Dashboard
+### 📈 Power BI — Sales Dashboard
 
-<a href="https://github.com/awan-mansuri/PowerBI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="View Power BI project"/>
+<a href="https://github.com/awan-mansuri/PowerBI-Projects">
+<img src="https://img.shields.io/badge/View%20Projects-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="View Power BI projects"/>
 </a>
 
-**Dashboard Features**
-- Revenue KPI
-- Win Rate
+- Revenue and Win Rate KPIs
 - Average Deal Size
 - Average Sales Cycle Days
 - Quarterly performance trends
-- Deal-stage funnel
-- Interactive quarter slicer
-- Quarter-over-quarter comparisons
+- Sales-stage funnel
+- Quarter slicer and comparisons
 
-**Tools & Techniques**
-- Power BI
-- DAX measures
-- Data modeling
-- KPI visualization
-
-**Dataset:** CRM sales pipeline (`sales_pipeline`)
+<sub>**Tools:** Power BI, DAX and data modeling</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -152,20 +133,15 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 ### 🐍 Python Projects
 
 <a href="https://github.com/awan-mansuri/Python-Projects">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="View Python projects"/>
+<img src="https://img.shields.io/badge/View%20Projects-7C3AED?style=flat-square&logo=python&logoColor=white" alt="View Python projects"/>
 </a>
 
-**Focus**
 - Data cleaning and preparation
 - Exploratory data analysis
 - Statistical analysis
 - Data visualization
 
-**Analytical Approach**
-- Explore and validate datasets
-- Identify patterns and trends
-- Summarize findings
-- Communicate insights
+<sub>**Focus:** Data exploration and analytical insights</sub>
 
 </td>
 </tr>
@@ -175,40 +151,29 @@ I enjoy exploring datasets, identifying patterns, analyzing business performance
 
 ### 🧠 AI & Machine Learning
 
-**Areas of interest**
 - Machine learning fundamentals
 - Data preprocessing
 - Feature selection
 - Model evaluation
 
-I am developing my skills in applying analytical and machine learning techniques to real-world datasets.
+<sub>**Focus:** Applying analytical methods to datasets</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 CRM Dashboard — Business Objective
+### 🔎 Explore More
 
-Analyze sales pipeline performance and understand how effectively deals convert into revenue.
+Browse my other repositories to see additional projects, code and experiments.
 
-**Questions explored**
-- How much revenue comes from won deals?
-- What percentage of deals are won?
-- What is the average deal value?
-- How long does it take to close a deal?
-- How does performance change by quarter?
-- How are deals distributed across stages?
+<a href="https://github.com/awan-mansuri?tab=repositories">
+<img src="https://img.shields.io/badge/All%20Repositories-111827?style=flat-square&logo=github&logoColor=white" alt="All repositories"/>
+</a>
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<p align="center">
-  <a href="https://github.com/awan-mansuri?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories"/>
-  </a>
-</p>
 
 ---
 
